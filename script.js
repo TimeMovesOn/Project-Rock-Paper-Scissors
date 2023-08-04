@@ -80,7 +80,3 @@ function getPlayerChoiceScissors(){
 }
 
 const computerSelection = getComputerChoice();
-
-function playRound(playerSelection, computerSelection) {
-
-  }
